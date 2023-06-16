@@ -1,2 +1,5 @@
 # Projeto-BD
-Projeto Base de Dados
+
+Duarte Cruz
+
+André Oliveira
